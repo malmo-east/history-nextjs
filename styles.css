@@ -1,0 +1,33 @@
+.app {
+  text-align: center;
+}
+
+.link {
+  cursor: pointer;
+  margin-right: 10px;
+}
+
+.history {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+pre {
+  text-align: left;
+  padding: 5px;
+  width: 250px;
+  border-radius: 5px;
+  margin-top: 0;
+  background: #ebebeb;
+}
+
+.navbar {
+  margin-bottom: 20px;
+}
+
+.page-content {
+  margin: 50px auto;
+  width: 500px;
+}
